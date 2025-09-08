@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 138.0.7204.183,,,08-09-2025 17:35:21,08-09-2025 17:35:30,9.020s,PASSED
+,,,,,,,
+Test Cases/New Test Case,Chrome 138.0.7204.183,,,08-09-2025 17:35:21,08-09-2025 17:35:30,8.611s,PASSED
+"openBrowser("""")",Chrome 138.0.7204.183,,,08-09-2025 17:35:21,08-09-2025 17:35:23,1.145s,PASSED
+"navigateToUrl(""https://copilot.sangria.tech/login"")",Chrome 138.0.7204.183,,,08-09-2025 17:35:23,08-09-2025 17:35:27,4.554s,PASSED
+"click(findTestObject(""Object Repository/Page_Sangria Copilot/div_concat(Let, , s get started)_space-y-2""))",Chrome 138.0.7204.183,,,08-09-2025 17:35:27,08-09-2025 17:35:28,0.365s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sangria Copilot/input_Email ID_email""), ""lekha.george@dotkonnekt.com"")",Chrome 138.0.7204.183,,,08-09-2025 17:35:28,08-09-2025 17:35:28,0.584s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sangria Copilot/input_Password_password""), ""8G1WqYcoNzoZK48lDRAxjRQCQy8VzQvr"")",Chrome 138.0.7204.183,,,08-09-2025 17:35:28,08-09-2025 17:35:28,0.332s,PASSED
+"click(findTestObject(""Object Repository/Page_Sangria Copilot/svg_Password_lucide lucide-eye h-4 w-4""))",Chrome 138.0.7204.183,,,08-09-2025 17:35:28,08-09-2025 17:35:29,0.307s,PASSED
+"click(findTestObject(""Object Repository/Page_Sangria Copilot/input_Password_password""))",Chrome 138.0.7204.183,,,08-09-2025 17:35:29,08-09-2025 17:35:29,0.489s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sangria Copilot/input_Password_password""), ""AIKEBTu2o7nKqIEeYo6CKw=="")",Chrome 138.0.7204.183,,,08-09-2025 17:35:29,08-09-2025 17:35:30,0.305s,PASSED
+"click(findTestObject(""Object Repository/Page_Sangria Copilot/button_Forgot Password_inline-flex items-ce_2b2a00""))",Chrome 138.0.7204.183,,,08-09-2025 17:35:30,08-09-2025 17:35:30,0.307s,PASSED

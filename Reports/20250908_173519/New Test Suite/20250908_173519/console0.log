@@ -1,0 +1,29 @@
+2025-09-08 17:35:21.389 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/New Test Suite
+2025-09-08 17:35:21.438 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Pradeep Swamy
+2025-09-08 17:35:21.440 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = 530pm
+2025-09-08 17:35:21.440 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = pradeep - WorkPC
+2025-09-08 17:35:21.441 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Linux 64bit
+2025-09-08 17:35:21.441 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 127.0.1.1
+2025-09-08 17:35:21.442 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.3.1.0
+2025-09-08 17:35:21.749 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-09-08 17:35:21.749 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/New Test Case
+2025-09-08 17:35:21.969 DEBUG testcase.New Test Case                   - 1: openBrowser("")
+2025-09-08 17:35:22.071 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2025-09-08 17:35:22.124 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+2025-09-08 17:35:23.077 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = 66936cb2de1180aac7696f37e50ce956
+2025-09-08 17:35:23.077 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 138.0.7204.183
+2025-09-08 17:35:23.078 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Linux
+2025-09-08 17:35:23.078 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.28.1
+2025-09-08 17:35:23.083 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2025-09-08 17:35:23.114 DEBUG testcase.New Test Case                   - 2: navigateToUrl("https://copilot.sangria.tech/login")
+2025-09-08 17:35:27.668 DEBUG testcase.New Test Case                   - 3: click(findTestObject("Object Repository/Page_Sangria Copilot/div_concat(Let, , s get started)_space-y-2"))
+2025-09-08 17:35:28.033 DEBUG testcase.New Test Case                   - 4: setText(findTestObject("Object Repository/Page_Sangria Copilot/input_Email ID_email"), "lekha.george@dotkonnekt.com")
+2025-09-08 17:35:28.618 DEBUG testcase.New Test Case                   - 5: setEncryptedText(findTestObject("Object Repository/Page_Sangria Copilot/input_Password_password"), "8G1WqYcoNzoZK48lDRAxjRQCQy8VzQvr")
+2025-09-08 17:35:28.949 DEBUG testcase.New Test Case                   - 6: click(findTestObject("Object Repository/Page_Sangria Copilot/svg_Password_lucide lucide-eye h-4 w-4"))
+2025-09-08 17:35:29.257 DEBUG testcase.New Test Case                   - 7: click(findTestObject("Object Repository/Page_Sangria Copilot/input_Password_password"))
+2025-09-08 17:35:29.746 DEBUG testcase.New Test Case                   - 8: setEncryptedText(findTestObject("Object Repository/Page_Sangria Copilot/input_Password_password"), "AIKEBTu2o7nKqIEeYo6CKw==")
+2025-09-08 17:35:30.050 DEBUG testcase.New Test Case                   - 9: click(findTestObject("Object Repository/Page_Sangria Copilot/button_Forgot Password_inline-flex items-ce_2b2a00"))
+2025-09-08 17:35:30.359 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/New Test Case
+2025-09-08 17:35:30.448 INFO  c.k.katalon.core.main.TestSuiteExecutor  - --------------------
+2025-09-08 17:35:30.448 INFO  c.k.katalon.core.main.TestSuiteExecutor  - END Test Suites/New Test Suite
+2025-09-08 17:35:30.448 INFO  c.k.katalon.core.main.TestSuiteExecutor  - ====================
