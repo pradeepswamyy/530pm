@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>9e31c473-4112-4a4f-bbec-b8abe40edca0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Password\*$/ >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>cac2fdb7-16c8-458b-b4d8-14c7681ff3cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M2.062 12.348a1 1 0 0 1 0-.696 10.75 10.75 0 0 1 19.876 0 1 1 0 0 1 0 .696 10.75 10.75 0 0 1-19.876 0</value>
+      <webElementGuid>e6109fdd-87aa-4d72-b2be-967d0402776b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;__variable_518cef __variable_e8ce0c light&quot;]/body[@class=&quot;font-roboto&quot;]/div[@class=&quot;flex min-h-screen flex-col&quot;]/div[@class=&quot;grid flex-grow grid-cols-1 md:grid-cols-2 relative&quot;]/div[@class=&quot;flex flex-col items-center justify-center p-8&quot;]/div[@class=&quot;w-full max-w-[500px] space-y-6&quot;]/form[@class=&quot;space-y-4&quot;]/div[@class=&quot;space-y-2&quot;]/div[@class=&quot;relative&quot;]/button[@class=&quot;absolute right-3 top-1/2 -translate-y-1/2 text-gray-500&quot;]/svg[@class=&quot;lucide lucide-eye h-4 w-4&quot;]/path[1]</value>
+      <webElementGuid>3fb8210f-d7fe-420e-9150-0fc2fb19cb61</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
